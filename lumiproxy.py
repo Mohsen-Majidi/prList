@@ -10,6 +10,7 @@ import shutil
 import time
 
 
+
 driver = webdriver.Chrome()
 
 url = 'https://www.lumiproxy.com/free-proxy/'
